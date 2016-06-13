@@ -1,0 +1,1 @@
+svn propedit svn:log --revprop -r NNN
